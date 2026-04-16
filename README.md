@@ -89,7 +89,7 @@ int main()
 
 &#x20;   media4 = (n1 + n2 + n3) / 3;
 
-&#x20;   cout<<"\\nAperte 2 vezes enter para continuar. ";
+&#x20;   cout<<"\\nAperte enter para continuar. ";
 
 &#x20;   cin.get();
 
